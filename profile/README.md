@@ -1,6 +1,6 @@
 # 👋 Hey there! We're Parlance Labs
 
-We're a group of AI engineers led by [Hamel Husain](https://hamel.dev) who help companies figure out if their AI is actually working (spoiler: often it's not) and how to make it better.
+We're a group of AI engineers led by [Hamel Husain](https://hamel.dev) who help companies improve AI products by levearging data-driven approaches.
 
 ## What we're about
 
