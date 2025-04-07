@@ -8,7 +8,7 @@ Here's what drives our approach:
 
 - We build systems for [systematic AI evaluation](https://hamel.dev/blog/posts/evals/) (because how else will you know if your AI is doing anything useful?)
 - We're data-obsessed and pragmatic. We teach you [processes that have worked](https://hamel.dev/blog/posts/field-guide/) more than 30 AI implementations.
-- We've developed methods to make sure our systems [provide business value and maintain trust](https://hamel.dev/blog/posts/llm-judge/).
+- We've developed methods to make sure your AI can [provide business value and produce results you can trust](https://hamel.dev/blog/posts/llm-judge/).
   
 ## We’re the consultancy who wants you to "fire us”
 
