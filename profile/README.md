@@ -21,8 +21,6 @@ Instead, we work alongside your team, transfer knowledge, and build capabilities
 - Processes for continuous improvement
 - Independence from consultants (including us!)
 
-When we succeed, you don't need us anymore. That's exactly how we want it.
-
 ## Find us around the internet
 
 - 🌐 [parlance-labs.com](https://parlance-labs.com) - More about what we do
