@@ -17,7 +17,7 @@ Here's something different about us: **we don't want you to have a long-term dep
 We don't chase recurring revenue or sell maintenance contracts - we think that creates perverse incentives.  Instead, we work alongside your team, transfer knowledge, and build capabilities so that when we leave, you have:
 - The skills to evaluate your AI systems
 - Processes for continuous improvement
-- Systems that will continuously save you time and resources by objectively surfacing the highest impact problems.
+- Systems that save you time and resources by objectively surfacing the highest impact issues.
 - The ability to select the best tools, vendors and frameworks for your use-case while minimizing complexity.
 - Independence from consultants (including us!)
 
