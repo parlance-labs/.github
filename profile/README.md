@@ -10,16 +10,17 @@ Here's what drives our approach:
 - We're data-obsessed and pragmatic. We teach you [processes that have worked](https://hamel.dev/blog/posts/field-guide/) across more than 30 AI implementations.
 - We've developed methods to make sure your AI can [provide business value and produce results](https://hamel.dev/blog/posts/llm-judge/) you trust.
   
-## We’re the consultancy who wants you to "fire us”
+## We're the consultancy who wants you to "fire us"
 
-Here's something different about us: **we don't want you to have a long-term dependency on us**. We’re not here to pitch you on new models, frameworks, or expensive infrastructure. We *are* here to teach you methods to experiment faster and systematically improve your systems, regardless of your domain or use-case.
+Here's something different about us: **we don't want you to have a long-term dependency on us**. We're not here to pitch you on new models, frameworks, or expensive infrastructure. We *are* here to teach you methods to experiment faster and systematically improve your systems, regardless of your domain or use-case.
 
 We don't chase recurring revenue or sell maintenance contracts - we think that creates perverse incentives.  Instead, we work alongside your team, transfer knowledge, and build capabilities so that when we leave, you have:
-- The skills to evaluate your AI systems
-- Processes for continuous improvement
+
+- The skills to evaluate your AI systems.
+- Processes for continuous improvement.
 - Systems that save you time and resources by objectively surfacing the highest impact issues.
-- The ability to select the best tools, vendors and frameworks for your use-case while minimizing complexity.
-- Independence from consultants (including us!)
+- The ability to select the best tools, vendors and frameworks while minimizing complexity.
+- Independence from consultants (including us!).
 
 You can read testimonials from our clients [here](https://parlance-labs.com/#heres-what-our-clients-are-saying).
 
