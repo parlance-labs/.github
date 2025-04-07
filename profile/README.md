@@ -14,7 +14,7 @@ Here's what drives our approach:
 
 ## We teach you how to fish
 
-Here's something different about us: **we don't want long-term dependency**.
+Here's something different about us: **we don't want you to have a long-term dependency on us**.
 
 Our consultancy model is explicitly designed to make ourselves unnecessary. We don't chase recurring revenue or sell maintenance contracts - we think that creates perverse incentives.
 
