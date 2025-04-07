@@ -19,6 +19,8 @@ We don't chase recurring revenue or sell maintenance contracts - we think that c
 - Processes for continuous improvement
 - Independence from consultants (including us!)
 
+You can read testimonials from our client's [here](https://parlance-labs.com/#heres-what-our-clients-are-saying)
+
 ## Find us around the internet
 
 - 🌐 [parlance-labs.com](https://parlance-labs.com) - More about what we do
