@@ -6,7 +6,7 @@ We're a group of AI engineers led by [Hamel Husain](https://hamel.dev) who help 
 
 Here's what drives our approach:
 
-- We build systems for [systematic AI evaluation]](https://hamel.dev/blog/posts/evals/) (because how else will you know if your AI is doing anything useful?)
+- We build systems for [systematic AI evaluation](https://hamel.dev/blog/posts/evals/) (because how else will you know if your AI is doing anything useful?)
 - We're data-obsessed and pragmatic. We teach you [processes that have worked across 30+ AI implementations](https://hamel.dev/blog/posts/field-guide/), and will [work for you too](https://parlance-labs.com), regardless of your use-case or domain.
 - We've developed methods to make sure our systems [provide business value and maintain trust](https://hamel.dev/blog/posts/llm-judge/).
 ## We teach you how to fish
