@@ -4,11 +4,9 @@ We're a group of AI engineers led by [Hamel Husain](https://hamel.dev) who help 
 
 ## What we're all about
 
-While everyone else is obsessing over the latest models and frameworks, we're over here looking at *actual data*. Turns out that's where the magic happens!
-
 Here's what drives our approach:
 
-- We build tools for systematic AI evaluation (because how else will you know if your fancy AI is doing anything useful?)
+- We build tools for systematic AI evaluation (because how else will you know if your AI is doing anything useful?)
 - We're data-obsessed and have learned through [30+ AI implementations](https://hamel.dev/blog/posts/field-guide/) that focusing on tools over process kills AI projects
 - We've developed practical methods for [error analysis](https://hamel.dev/blog/posts/evals/) and [avoiding metric overload](https://hamel.dev/blog/posts/llm-judge/) that actually move the needle
 
