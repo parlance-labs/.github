@@ -1,12 +1,12 @@
 # 👋 Hey there! We're Parlance Labs
 
-We're a group of AI engineers led by [Hamel Husain](https://hamel.dev) who help companies improve AI products by levearging data-driven approaches.
+We're a group of AI engineers led by [Hamel Husain](https://hamel.dev) who help companies improve AI products with data-driven approaches.
 
 ## What we're about
 
 Here's what drives our approach:
 
-- We build systems for [systematic AI evaluation](https://hamel.dev/blog/posts/evals/) (because how else will you know if your AI is doing anything useful?)
+- We establish [systematic AI evaluation](https://hamel.dev/blog/posts/evals/) that's specific to your product & domain (because how else will you know if your AI is doing anything useful?)
 - We're data-obsessed and pragmatic. We teach you [processes that have worked](https://hamel.dev/blog/posts/field-guide/) across more than 30 AI implementations.
 - We've developed methods to make sure your AI can [provide business value and produce results](https://hamel.dev/blog/posts/llm-judge/) you trust.
   
