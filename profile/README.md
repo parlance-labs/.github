@@ -2,7 +2,7 @@
 
 We're a group of AI engineers led by [Hamel Husain](https://hamel.dev) who help companies figure out if their AI is actually working (spoiler: often it's not) and how to make it better.
 
-## What we're all about
+## What we're about
 
 Here's what drives our approach:
 
