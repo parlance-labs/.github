@@ -14,7 +14,7 @@ Here's what drives our approach:
 
 Here's something different about us: **we don't want you to have a long-term dependency on us**. We’re not here to pitch you on new models, frameworks, or expensive infrastructure. We *are* here to teach you methods to experiment faster and systematically improve your systems, regardless of your domain or use-case.
 
-Our consultancy model is explicitly designed to make ourselves unnecessary. We don't chase recurring revenue or sell maintenance contracts - we think that creates perverse incentives.  Instead, we work alongside your team, transfer knowledge, and build capabilities so that when we leave, you have:
+We don't chase recurring revenue or sell maintenance contracts - we think that creates perverse incentives.  Instead, we work alongside your team, transfer knowledge, and build capabilities so that when we leave, you have:
 - The skills to evaluate your AI systems
 - Processes for continuous improvement
 - Independence from consultants (including us!)
